@@ -33,7 +33,7 @@ app.get("/", (req, res, next) => {
 
     res.send({
         name:"Brajeswar",
-        age:99
+        age:24
     })
 })
 
